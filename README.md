@@ -1,11 +1,20 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# Site web openfab
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+Développement du nouveau site web d'OpenFab en utilisant github et le markdown au miximum.
 
-Oh! I haven't introduced myself...
+Pour :
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+- permettre à n'importe quel membre de le modifier
+- offrir une version transparente du site
+- pouvoir modifier le contenu en appelland un .md d'ailleurs (maybe?)
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
+## A faire
+
+- [ ] Footer avec nav dedans
+- [ ] Ajouter lien sociaux
+- [ ] Contact form (avec formspree)
+- [ ] Catalogue membre = lien vers site web des membres
+- [ ] Vers wiki pour le fonctionnement ?
+- [ ] SEO ? how ?
+- [ ] favicon
