@@ -98,7 +98,11 @@ $quoteFont: 'droid_serifitalic', cursive;
 		text-align:center;
 	}
 
-	.reveal h2,h3,h4,h5,h6,p,ul,li,ol {
+	.reveal h2,h3,h4,h5,h6,p {
+		text-align:left;
+	}
+
+	.reveal li,ul,ol {
 		text-align:left;
 	}
 
