@@ -103,7 +103,7 @@ $quoteFont: 'droid_serifitalic', cursive;
 	}
 
 	.reveal li,ul,ol {
-		text-align:left;
+		text-align:left; !important
 	}
 
   .reveal {
