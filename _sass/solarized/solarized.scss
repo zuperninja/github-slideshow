@@ -98,8 +98,9 @@ $quoteFont: 'droid_serifitalic', cursive;
 	nav {
 	left: 0px;
 	width: 200px;
-	position: relative;
 	background-color: pink;
+	z-index: 999999999;
+	display: block;
 }
 
 	.reveal h1 {
