@@ -107,6 +107,9 @@ $quoteFont: 'droid_serifitalic', cursive;
 		text-indent: 2em;
     list-style-position: inside;
 	}
+.reveal .slides {
+	text-align: center; !important
+}
 
   .reveal {
     background-color: $rebase03;
