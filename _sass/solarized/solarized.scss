@@ -95,14 +95,12 @@ $quoteFont: 'droid_serifitalic', cursive;
   }
 
 
-	.container {
-	position: relative;
-   }
-
 	nav {
 	position: absolute;
 	left: 0px;
 	width: 200px;
+	position: relative;
+	background-color: pink;
 }
 
 	.reveal h1 {
