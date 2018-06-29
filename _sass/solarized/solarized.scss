@@ -94,6 +94,17 @@ $quoteFont: 'droid_serifitalic', cursive;
     background-color: $rebase03;
   }
 
+
+	.container {
+	position: relative;
+   }
+
+	nav {
+	position: absolute;
+	left: 0px;
+	width: 200px;
+}
+
 	.reveal h1 {
 		text-align:center;
 	}
