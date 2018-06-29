@@ -87,7 +87,7 @@ $quoteFont: 'droid_serifitalic', cursive;
 // ---------------------------------------------
 @mixin rebase( $rebase03,$rebase02,$rebase01,$rebase00,$rebase0,$rebase1,$rebase2,$rebase3 )
 {
-  background-color: $rebase03;
+  background-color: white;
   color: $rebase1;
   //* { color: $rebase1; }
   body {
